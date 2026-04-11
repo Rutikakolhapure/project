@@ -99,13 +99,97 @@ flowchart LR
 
 ## 🔄 Workflow
 
+Agro-Optics/
+│
+├── backend/
+│ ├── app.py
+│ ├── routes/
+│ ├── models/
+│ └── utils/
+│
+├── frontend/
+│ ├── src/
+│ └── components/
+│
+├── models/
+│ ├── soil_model.h5
+│ ├── disease_model.h5
+│
+├── dataset/
+│ ├── soil_data.csv
+│ └── disease_solution.csv
+│
+├── database/
+│ └── agro_optics.db
+│
+├── requirements.txt
+└── README.md
+
 
 
 ---
 
-If you want to push this to elite level:
-- Replace placeholder images with **real screenshots**
-- Add **live deployed link (Render + Vercel)**
-- Add **model results graphs (accuracy/loss plots)**
+## 🚀 Getting Started
 
-Otherwise, this is already strong enough to beat 90% of student GitHub READMEs.
+### 1. Clone Repository
+```bash
+git clone https://github.com/your-username/agro-optics.git
+cd agro-optics
+
+## 2. Backend Setup
+pip install -r requirements.txt
+python app.py
+
+## 3. Frontend Setup
+cd frontend
+npm install
+npm start
+
+## 🧪 Key Engineering Highlights
+1. Multi-model ML pipeline
+2. REST API for ML inference
+3. Weather API integration
+4. Data-driven recommendation system
+5. Full-stack architecture (React + Flask + ML)
+6. Prediction history storage
+
+## 📉 Limitations
+Dependent on image quality
+Limited dataset coverage
+Approximate NPK estimation
+Requires internet for weather
+
+## 🔮 Future Improvements
+Mobile app (TensorFlow Lite)
+Multilingual + voice support
+Vision Transformers (ViT)
+Explainable AI (Grad-CAM)
+IoT sensor integration
+
+## 🏆 Impact
+Reduces need for lab testing
+Enables precision farming
+Helps farmers make data-driven decisions
+Supports sustainable agriculture
+
+## 👩‍💻 Authors
+Rutika Kolhapure
+Prachi Dhekule
+Pranjal Yallurkar
+Rakshita Handge
+
+## ⭐ For Recruiters
+
+This project demonstrates:
+
+Applied AI/ML skills
+Full-stack development
+Real-world problem solving
+System design capability
+
+➡️ Open to AI/ML Internships | SDE Roles | GenAI Roles
+
+##📌 Final Note
+
+This is not just a model.
+This is a complete AI product prototype.
