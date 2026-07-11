@@ -162,7 +162,6 @@ Requires internet for weather
 ## 🔮 Future Improvements
 Mobile app (TensorFlow Lite)
 Multilingual + voice support
-Vision Transformers (ViT)
 Explainable AI (Grad-CAM)
 IoT sensor integration
 
