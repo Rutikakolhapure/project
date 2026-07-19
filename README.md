@@ -57,16 +57,8 @@ This system solves **four critical problems simultaneously**:
 
 ## 🏗️ Architecture
 
-```mermaid
-flowchart LR
-    A[User Upload Image] --> B[Frontend React UI]
-    B --> C[Flask API]
-    C --> D[Image Preprocessing]
-    D --> E[Deep Learning Models]
-    E --> F[Prediction Output]
-    F --> G[NPK Mapping + Weather API]
-    G --> H[Recommendation Engine]
-    H --> I[Results + Database Storage]
+<img width="1536" height="1024" alt="ChatGPT Image Jul 19, 2026, 07_48_00 AM" src="https://github.com/user-attachments/assets/b36e2787-2b9d-4b19-9539-a56d2b52e2e6" />
+
 
 
 ## ⚙️ Tech Stack
@@ -129,12 +121,13 @@ Agro-Optics/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/your-username/agro-optics.git
 cd agro-optics
+```
 
 ## 2. Backend Setup
 pip install -r requirements.txt
