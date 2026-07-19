@@ -57,7 +57,8 @@ This system solves **four critical problems simultaneously**:
 
 ## 🏗️ Architecture
 
-<img width="1536" height="1024" alt="ChatGPT Image Jul 19, 2026, 07_48_00 AM" src="https://github.com/user-attachments/assets/b36e2787-2b9d-4b19-9539-a56d2b52e2e6" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 19, 2026, 08_05_40 AM" src="https://github.com/user-attachments/assets/2159128f-c5cc-409e-b0e1-756f8396b995" />
+
 
 
 
